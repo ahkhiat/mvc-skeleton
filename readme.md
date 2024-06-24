@@ -1,6 +1,6 @@
-## MVC Skeleton
+## MVC Skeleton (PHP mySQL)
 
-This is a skeleton for an MVC website.
+This is a skeleton for an MVC php website with a mySQL database.
 
 > Feel free to use it and share with your friends ! 😊
 &nbsp;  
