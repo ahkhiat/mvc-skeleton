@@ -2,6 +2,10 @@
 
 This is a skeleton for an MVC website.
 
+> Feel free to use it and share with your friends ! 😊
+&nbsp;  
+> Add a star to help me gain visibility ⭐
+
 You can add any Model or Controller you need. Just remember to declare it in the router (`index.php`).
 
 The Security Controller and Model already contain login and register functions. 
