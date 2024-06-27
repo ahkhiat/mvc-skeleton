@@ -78,6 +78,11 @@ class Controller_ChildController extends Controller
         $this->action_home();
     }
 
+    public function action_home()
+    {
+        $this->render('home');
+    }
+
 
     public function action_name_of_your_action()
     {
